@@ -1,5 +1,5 @@
 # WineVarietyDetection
-A predictive model is created by performing training on the train data set and then predicting the wine “variety” from the test data set.
+A predictive model is created by performing training on the train data set and then predicting the wine “variety” for the test data set.
 
 The Data Description is as follows:
 -	user_name - user_name of the reviewer
